@@ -1,2 +1,4 @@
-# web-335
-Repository for my Web-335 Class
+# WEB 335 Introduction to NoSQL
+## Contributors
+* Professor Richard Krasso 
+* Sheldon Skaggs
