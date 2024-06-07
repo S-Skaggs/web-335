@@ -6,7 +6,7 @@ Description: This Python solution will print one of my favorite quotes
 """
 
 # Set variables to hold data
-quote = "There are 3 things I have learned never to discuss with people: religion, politics, & the Great Pumpkin."
+quote = '"There are 3 things I have learned never to discuss with people: religion, politics, & the Great Pumpkin."'
 character = "Linus Van Pelt"
 author = "Charles M. Schulz"
 
