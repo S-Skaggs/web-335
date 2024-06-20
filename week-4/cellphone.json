@@ -1,0 +1,67 @@
+{
+    "user": {
+        "_id": 1,
+        "firstName": "Sheldon",
+        "lastName": "Skaggs",
+        "devices": [1, 2, 3, 4]
+    },
+    "charger": {
+        "_id": 1,
+        "chargerType": "A",
+        "voltage": "5"
+    },
+    "charger": {
+        "_id": 2,
+        "chargerType": "B",
+        "voltage": "5"
+    },
+    "charger": {
+        "_id": 3,
+        "chargerType": "Mini A",
+        "voltage": "10"
+    },
+    "charger": {
+        "_id": 4,
+        "chargerType": "Mini B",
+        "voltage": "10"
+    },
+    "charger": {
+        "_id": 5,
+        "chargerType": "Micro A",
+        "voltage": "15"
+    },
+    "charger": {
+        "_id": 6,
+        "chargerType": "Micro B",
+        "voltage": "15"
+    },
+    "charger": {
+        "_id": 7,
+        "chargerType": "C",
+        "voltage": "20"
+    },
+    "device": {
+        "_id": 1,
+        "deviceName": "Kindle Fire HD 10",
+        "deviceType": "E-Reader",
+        "charger_id": 1
+    },
+    "device": {
+        "_id": 2,
+        "deviceName": "Samsung S21 Ultra",
+        "deviceType": "Cell Phone",
+        "charger_id": 7
+    },
+    "device": {
+        "_id": 3,
+        "deviceName": "Canon EOW Rebel T6",
+        "deviceType": "Digital Camera",
+        "charger_id": 2
+    },
+    "device": {
+        "_id": 4,
+        "deviceName": "Lavalier Charging Box",
+        "deviceType": "Wireless Microphone",
+        "charger_id": 7
+    }
+}
