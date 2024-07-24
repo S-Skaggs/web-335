@@ -83,7 +83,7 @@ def genre_menu():
       print("Invalid choice.")
       genre_menu()
   else:
-    print("Invalid numericalchoice.")
+    print("Invalid non-numerical choice.")
     genre_menu()
 
 # Display wishlist
